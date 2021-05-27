@@ -1,1 +1,1 @@
-%~dp0\python\python.exe tetris.py
+%~dp0\python\python.exe init.py
