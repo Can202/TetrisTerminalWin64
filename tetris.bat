@@ -1,0 +1,1 @@
+%~dp0\python\python.exe tetris.py
