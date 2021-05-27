@@ -1,1 +1,1 @@
-%~dp0\python\python.exe init.py
+%~dp0python\python.exe init.py
