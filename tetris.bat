@@ -1,1 +1,1 @@
-%~dp0python\python.exe init.py
+%~dp0python\python.exe %~dp0init.py --debug-log-only
